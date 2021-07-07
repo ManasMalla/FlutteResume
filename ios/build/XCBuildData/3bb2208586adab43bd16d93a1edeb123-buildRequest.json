@@ -1,0 +1,51 @@
+{
+  "buildCommand" : "prepareForIndexing",
+  "configuredTargets" : [
+    {
+      "guid" : "addfcb7fe875ec90354e65eba2ccf4419da425bb6d6d5d8dbb95e4afffb82217"
+    },
+    {
+      "guid" : "addfcb7fe875ec90354e65eba2ccf44118352c54edac2258b91768852065ce5e"
+    },
+    {
+      "guid" : "addfcb7fe875ec90354e65eba2ccf441312b4bc59bbbe2c06c205bf4da6737f5"
+    },
+    {
+      "guid" : "addfcb7fe875ec90354e65eba2ccf44118cef727f8eda3b8a829c76bc2e44dae"
+    },
+    {
+      "guid" : "addfcb7fe875ec90354e65eba2ccf441d4392de6bb60b195d0ae2bce218962aa"
+    }
+  ],
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/ramaraomalla/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/ramaraomalla/Library/Developer/Xcode/DerivedData/Pods-fbhorjwydlruuabogntelqjnuzlp/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/ramaraomalla/Library/Developer/Xcode/DerivedData/Pods-fbhorjwydlruuabogntelqjnuzlp/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}
