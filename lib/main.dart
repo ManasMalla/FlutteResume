@@ -38,7 +38,7 @@ class _FlutteResumeState extends State<FlutteResume> {
                     flex: 11,
                     child: Padding(
                       padding: const EdgeInsets.symmetric(
-                          horizontal: 24, vertical: 32),
+                          horizontal: 24, vertical: 24),
                       child: Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
@@ -138,7 +138,7 @@ class _FlutteResumeState extends State<FlutteResume> {
                             height: 8,
                           ),
                           Text(
-                            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec mi odio, luctus ut sapien vel, convallis ornare lectus. Morbi ut posuere felis, ac consequat diam.",
+                            "Life's too short and beautiful!\nLet's keep making miracles and enjoy what life throws at us with the same enthusiastic spirit and a bright smile! Let's be a force for change in the 🌏, #VasudaivaKutumbam 🦚🐚☀️.✌️!✌️!✌️! ",
                             style: TextStyle(
                                 fontFamily: "Quicksand",
                                 fontWeight: FontWeight.w600,
@@ -238,7 +238,7 @@ class _FlutteResumeState extends State<FlutteResume> {
                             ),
                           ),
                           SizedBox(
-                            height: 4,
+                            height: 2,
                           ),
                           Row(
                             children: [
@@ -317,7 +317,7 @@ class _FlutteResumeState extends State<FlutteResume> {
                             ],
                           ),
                           SizedBox(
-                            height: 8,
+                            height: 4,
                           ),
                           Row(
                             children: [
@@ -432,7 +432,7 @@ class _FlutteResumeState extends State<FlutteResume> {
                             ],
                           ),
                           SizedBox(
-                            height: 16,
+                            height: 12,
                           ),
                           Container(
                             child: Image(
